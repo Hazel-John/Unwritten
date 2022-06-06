@@ -1,5 +1,5 @@
 # Unwritten
-This if a test blog page for the devops assignment as a part of my BITS course
+This is a devops assignment as a part of my BITS course
 
 This project is developed by 
 1. Janaki
